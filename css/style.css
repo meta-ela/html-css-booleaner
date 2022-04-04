@@ -1,23 +1,26 @@
 header {
     background-color: rgb(37, 150, 190);
-    width: 100%;
-    height: 100px;
+    height: 120px;
     background-image: url(../img/pattern.png);
-    background-size: contain;
+    background-size: auto;
+    background-position: 100px 20px;
 }
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0;
 }
 
 .logo {
     width: 200px;
     background-position: bottom left;
+    margin-top: 70px;
 }
 
 h1 {
     font-size: 40px;
     margin: 0;
+    padding-top: 10px;
 }
 
 .subtext, .subtext-date {
