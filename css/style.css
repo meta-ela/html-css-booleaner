@@ -6,7 +6,37 @@ header {
     background-size: contain;
 }
 
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .logo {
     width: 200px;
     background-position: bottom left;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0;
+}
+
+.subtext, .subtext-date {
+    color: rgb(143, 134, 134);
+}
+
+.subtext-date {
+    font-size: 10px;
+}
+
+span {
+    color: rgb(41, 158, 197);
+}
+
+figure {
+    margin-left: 0;
+    font-size: 10px;
+}
+
+ul {
+    padding-left: 15px;
 }
