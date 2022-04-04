@@ -28,7 +28,7 @@ h1 {
     font-size: 10px;
 }
 
-span {
+section span {
     color: rgb(41, 158, 197);
 }
 
@@ -54,4 +54,25 @@ thead {
 
 .blue-row {
     background-color: rgb(148, 208, 230);
+}
+
+footer span {
+    color: rgb(117, 116, 116);
+}
+
+.footer_computer {
+    background-image: url(../img/monitor.jpg);
+}
+.footer_graph {
+    background-image: url(../img/graph.jpg);
+}
+
+footer div {
+    color: white;
+    text-align: justify;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 200px;
+    margin-top: 10px;
 }
