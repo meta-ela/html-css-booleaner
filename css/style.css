@@ -52,6 +52,10 @@ thead {
     background-color: rgb(37, 150, 190);
 }
 
+th {
+    width: 500px;
+}
+
 .blue-row {
     background-color: rgb(148, 208, 230);
 }
@@ -69,7 +73,6 @@ footer span {
 
 footer div {
     color: white;
-    text-align: justify;
     background-size: cover;
     background-repeat: no-repeat;
     height: 150px;
