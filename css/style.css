@@ -40,3 +40,18 @@ figure {
 ul {
     padding-left: 15px;
 }
+
+table {
+    text-align: left;
+    border-spacing: 0px;
+    border-collapse: separate;
+}
+
+thead {
+    color: white;
+    background-color: rgb(37, 150, 190);
+}
+
+.blue-row {
+    background-color: rgb(148, 208, 230);
+}
