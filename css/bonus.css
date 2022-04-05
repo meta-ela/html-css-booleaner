@@ -1,14 +1,16 @@
 header {
     background-color: rgb(37, 150, 190);
-    height: 120px;
+    height: 100px;
     background-image: url(../img/pattern.png);
-    background-size: auto;
+    background-size: 330px;
     background-position: 100px 20px;
 }
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 main {
@@ -19,7 +21,7 @@ main {
 .logo {
     width: 200px;
     background-position: bottom left;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-left: 70px;
 }
 
